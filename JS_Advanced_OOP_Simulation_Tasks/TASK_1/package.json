@@ -1,0 +1,12 @@
+{
+  "name": "js_advanced_oop_simulation_tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

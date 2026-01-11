@@ -1,0 +1,6 @@
+[2026-01-11T09:16:50.106Z] deposit | account: 1234567890 | amount: 5000
+[2026-01-11T09:16:50.115Z] transfer | account: 1234567890-> 5555566666 | amount: 2000
+[2026-01-11T09:16:50.115Z] withdraw | account: 1234567890 | amount: [object Object],2000,[object Object]
+[2026-01-11T09:18:01.721Z] deposit | account: 1234567890 | amount: 5000
+[2026-01-11T09:18:01.726Z] transfer | account: 1234567890-> 5555566666 | amount: 2000
+[2026-01-11T09:18:01.726Z] withdraw | account: 1234567890 | amount: 2000
