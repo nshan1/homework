@@ -1,0 +1,6 @@
+[Bob with id 1 rented BMW for 21 days]
+[Bob with id 1 rented BMW for 21 days]
+[Jack with id 2 rented BMW for 2 days]
+[Jack returned BMW after 2 days]
+[Jack with id 2 rented BMW for 2 days]
+[Bob returned BMW after 21 days]
